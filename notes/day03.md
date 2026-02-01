@@ -1,4 +1,4 @@
-## Day 04 - Function Return
+## Day 03 - Function Return
 
 - Learned what 'return' does
 - Understood difference between print and return
